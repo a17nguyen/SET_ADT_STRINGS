@@ -1,5 +1,6 @@
 SET_ADT_STRINGS PROJECT
-Project By: Andrew Nguyenc
+
+Project By: Andrew Nguyen
 Date: 10/08/2017
 
 This file implements a set ADT for strings. The implementation files are the 
