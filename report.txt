@@ -1,0 +1,28 @@
+unique
+------
+                              unsorted(s)  sorted(s)
+GreenEggsAndHam.txt		.002		.01	    	
+Macbeth.txt                     .123    	.36
+Genesis.txt                     .125     	.031
+HoundOfTheBaskervilles.txt      .174     	.077
+TheWarOfTheWorlds.txt           .321     	.095
+TreasureIsland.txt              .314     	.085
+TheSecretGarden.txt             .268     	.077
+TwentyThousandLeagues.txt       .610     	.144
+TheCountOfMonteCristo.txt       2.803     	.375
+Bible.txt                       3.051     	.344
+
+
+parity
+------
+                              unsorted(s)  sorted(s)
+GreenEggsAndHam.txt             .001		.002
+Macbeth.txt                     .001		.035  			
+Genesis.txt                     .001     	.039
+HoundOfTheBaskervilles.txt      .001     	.091
+TheWarOfTheWorlds.txt           .001     	.109
+TreasureIsland.txt              .001     	.095
+TheSecretGarden.txt             .001     	.096
+TwentyThousandLeagues.txt       .001     	.145
+TheCountOfMonteCristo.txt       .001     	.382
+Bible.txt                       .001     	.455
