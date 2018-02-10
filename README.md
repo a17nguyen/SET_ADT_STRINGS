@@ -16,6 +16,6 @@ locate an element in the array.
 
 For both implementations, rather than duplicating the search logic in several functions,
 there is write an auxiliary function search that returns the location of an element in an array. 
-It declares search as static so it is not visible outside of the source file.  
-Search is used to implement the functions in the interface. The implementation allocates 
-memory and copies the string when adding, and therefore also deallocates memory when removing.
+It declares search as static so it is not visible outside of the source file.  Search is used to 
+implement the functions in the interface. The implementation allocates memory and copies the string 
+when adding, and therefore also deallocates memory when removing.
